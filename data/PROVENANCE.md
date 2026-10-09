@@ -4,7 +4,7 @@ Derived daily statistics from Réunion TCCON GGG2020 R0, 2015-03-01 to 2020-07-1
 Source DOI: https://doi.org/10.14291/tccon.ggg2020.reunion01.R0
 Original file: ra20150301_20200718.public.qc.nc, downloaded 2026-10-09.
 Source contact: Martine De Mazière, Royal Belgian Institute for Space Aeronomy.
-The observations were collected by TCCON investigators, not by this project's author.
+The observations were collected by TCCON investigators.
 Dataset citation and terms: https://tccondata.org/ and
 https://tccon-wiki.caltech.edu/Network_Policy/Data_Use_Policy
 Retain the original dataset attribution; this project's MIT code license does not
