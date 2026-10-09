@@ -1,0 +1,12 @@
+{
+  "source_observations": 121651,
+  "observed_days": 953,
+  "first_day": "2015-03-01",
+  "last_day": "2020-07-18",
+  "event_days": 16,
+  "event_daily_pearson_r_co2_co": 0.11431380905768816,
+  "co2_unit": "ppm",
+  "co_unit": "ppb",
+  "ch4_unit": "ppb",
+  "interpretation": "Descriptive co-variation only; no source attribution or satellite validation."
+}
