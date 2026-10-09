@@ -44,10 +44,6 @@ Climate/health relevance: greenhouse-gas monitoring and emissions analysis provi
 climate context; none of these quantities directly estimates a person's exposure,
 disease risk or health outcome.
 
-## CV wording supported by this repository
-
-Processed real Réunion TCCON observations using a units-aware Python workflow; generated daily/monthly greenhouse-gas summaries and assessed CO–CO2 co-variation.
-
 ## Research ownership and review
 
 This analysis was prepared collaboratively with coding assistance. All original
