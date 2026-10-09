@@ -49,7 +49,7 @@ disease risk or health outcome.
 This analysis was prepared collaboratively with coding assistance. All original
 observations and published results remain credited to their data providers.
 The researcher should reproduce the run, inspect the figures and understand the
-methods before presenting the work in an interview or extending it for publication.
+methods before presenting the work or extending it for publication.
 This repository is a portfolio study, not a peer-reviewed article.
 
 Contact: miranda.finjap@aims-cameroon.org
